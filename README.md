@@ -5,5 +5,5 @@ This repository provides an implementation of the Kalman Filter algorithm to est
 The weather-raw_2020.csv files contains weather station data from 1995 to 2020.
 
 ### Kalman Filter
-The Kalman-Filter-Toyon.ipynb details on how to use the weather data to emtimate different atmospheri vatiables such as tempetature, humidity and dew point.
+The Kalman-Filter-Toyon.ipynb details on how to use the weather data to emtimate different atmospheric vatiables such as tempetature, humidity and dew point.
 
