@@ -1,0 +1,3 @@
+# Kalman-Filter-In-Weather-Prediction
+## Kalman Filter for Weather Data Estimation
+This repository provides an implementation of the Kalman Filter algorithm to estimate humidity, dew point, and temperature using weather data from 1995 to 2020. The Kalman Filter is a recursive algorithm that uses a series of measurements over time to estimate the state of a system while accounting for measurement noise and uncertainty.
